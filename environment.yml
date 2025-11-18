@@ -1,0 +1,11 @@
+name: dsci522
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - pandas=2.2.3
+  - scikit-learn
+  - scipy
+  - numpy
+  - jupyterlab
+prefix: /Users/jasjotparmar/miniforge3/envs/dsci522
